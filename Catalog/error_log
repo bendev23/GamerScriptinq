@@ -1,0 +1,22 @@
+[26-Dec-2013 17:46:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/Catalog/index.php on line 2
+[26-Dec-2013 17:47:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/Catalog/index.php on line 7
+[26-Dec-2013 17:53:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:54:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/global.php on line 107
+[26-Dec-2013 17:54:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/global.php on line 107
+[26-Dec-2013 17:54:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/global.php on line 107
+[26-Dec-2013 17:54:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/global.php on line 107
+[26-Dec-2013 17:55:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:56:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:56:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:56:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:56:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:56:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:56:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:57:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:57:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:57:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:58:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:58:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 17:58:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[29-Dec-2013 20:26:57 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/loriasne/public_html/Catalog/index.php on line 29
+[29-Dec-2013 21:02:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Catalog/ViewItem.php on line 75

@@ -1,0 +1,25 @@
+[27-Dec-2013 02:37:09 UTC] PHP Warning:  include(global.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Testings/index.php on line 1
+[27-Dec-2013 02:37:09 UTC] PHP Warning:  include(global.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Testings/index.php on line 1
+[27-Dec-2013 02:37:09 UTC] PHP Warning:  include(): Failed opening 'global.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/loriasne/public_html/Testings/index.php on line 1
+[27-Dec-2013 02:37:09 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Testings/index.php on line 82
+[27-Dec-2013 02:37:09 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Testings/index.php on line 82
+[27-Dec-2013 02:37:09 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/loriasne/public_html/Testings/index.php on line 82
+[27-Dec-2013 02:40:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Testings/index.php on line 22
+[27-Dec-2013 02:46:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Testings/index.php on line 23
+[27-Dec-2013 02:46:50 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_real_escape_string() in /home/loriasne/public_html/Testings/index.php on line 4
+[28-Dec-2013 21:16:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Test/index.php on line 25
+[28-Dec-2013 21:16:46 UTC] PHP Fatal error:  Call to undefined method mysqli::real_escape_strings() in /home/loriasne/public_html/Test/index.php on line 4
+[28-Dec-2013 21:18:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/Test/index.php on line 9
+[28-Dec-2013 21:18:55 UTC] PHP Parse error:  syntax error, unexpected '"<META http-equiv=refresh cont' (T_CONSTANT_ENCAPSED_STRING) in /home/loriasne/public_html/Test/index.php on line 8
+[28-Dec-2013 21:28:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Test/index.php on line 48
+[28-Dec-2013 21:31:46 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/loriasne/public_html/Test/index.php on line 16
+[28-Dec-2013 21:32:14 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/loriasne/public_html/Test/index.php on line 16
+[28-Dec-2013 21:32:24 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/loriasne/public_html/Test/index.php on line 16
+[28-Dec-2013 21:33:02 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/loriasne/public_html/Test/index.php on line 16
+[28-Dec-2013 21:33:15 UTC] PHP Parse error:  syntax error, unexpected 'red' (T_STRING) in /home/loriasne/public_html/Test/index.php on line 25
+[28-Dec-2013 21:34:01 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/loriasne/public_html/Test/index.php on line 16
+[28-Dec-2013 21:34:20 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/loriasne/public_html/Test/index.php on line 16
+[28-Dec-2013 21:34:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/loriasne/public_html/Test/index.php on line 16
+[28-Dec-2013 21:34:40 UTC] PHP Parse error:  syntax error, unexpected 'red' (T_STRING) in /home/loriasne/public_html/Test/index.php on line 25
+[28-Dec-2013 21:34:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Test/index.php on line 56
+[28-Dec-2013 21:37:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/Test/index.php on line 22

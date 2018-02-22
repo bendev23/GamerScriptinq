@@ -1,0 +1,59 @@
+[24-Dec-2013 15:50:41 America/Chicago] PHP Warning:  include(/global.php): failed to open stream: No such file or directory in /home/loriasx2/public_html/Inbox/View.php on line 2
+[24-Dec-2013 15:50:41 America/Chicago] PHP Warning:  include(): Failed opening '/global.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/loriasx2/public_html/Inbox/View.php on line 2
+[24-Dec-2013 15:50:41 America/Chicago] PHP Fatal error:  Call to undefined function mysqli() in /home/loriasx2/public_html/Inbox/View.php on line 5
+[24-Dec-2013 15:50:59 America/Chicago] PHP Fatal error:  Call to undefined function mysqli() in /home/loriasx2/public_html/Inbox/View.php on line 5
+[24-Dec-2013 15:51:07 America/Chicago] PHP Fatal error:  Function name must be a string in /home/loriasx2/public_html/Inbox/View.php on line 5
+[24-Dec-2013 15:51:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/Inbox/View.php on line 5
+[24-Dec-2013 15:51:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/Inbox/View.php on line 5
+[24-Dec-2013 15:52:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/Inbox/View.php on line 6
+[24-Dec-2013 15:52:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/Inbox/View.php on line 6
+[24-Dec-2013 15:56:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/Inbox/View.php on line 6
+[24-Dec-2013 15:56:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/Inbox/View.php on line 6
+[24-Dec-2013 15:56:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/Inbox/View.php on line 6
+[24-Dec-2013 16:08:49 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/Inbox/View.php on line 44
+[24-Dec-2013 16:08:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/Inbox/View.php on line 44
+[24-Dec-2013 16:20:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/Inbox/Compose.php on line 9
+[24-Dec-2013 16:33:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/loriasx2/public_html/Inbox/Compose.php on line 31
+[24-Dec-2013 16:38:28 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/loriasx2/public_html/Inbox/View.php on line 31
+[24-Dec-2013 16:38:53 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/loriasx2/public_html/Inbox/View.php on line 31
+[24-Dec-2013 16:40:38 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/loriasx2/public_html/Inbox/View.php on line 31
+[24-Dec-2013 16:40:41 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/loriasx2/public_html/Inbox/View.php on line 31
+[24-Dec-2013 18:25:36 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Inbox/View.php on line 5
+[24-Dec-2013 18:26:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'Message' (T_STRING) in /home/loriasx2/public_html/Inbox/View.php on line 7
+[24-Dec-2013 18:26:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'lander' (T_STRING) in /home/loriasx2/public_html/Inbox/View.php on line 10
+[24-Dec-2013 18:26:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'lander' (T_STRING) in /home/loriasx2/public_html/Inbox/View.php on line 10
+[24-Dec-2013 18:26:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'lander' (T_STRING) in /home/loriasx2/public_html/Inbox/View.php on line 10
+[24-Dec-2013 18:27:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'lander' (T_STRING) in /home/loriasx2/public_html/Inbox/View.php on line 10
+[24-Dec-2013 21:25:06 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/Inbox/View.php on line 16
+[26-Dec-2013 17:14:16 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Inbox/View.php on line 63
+[26-Dec-2013 17:14:16 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Inbox/View.php on line 63
+[26-Dec-2013 17:14:16 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/loriasne/public_html/Inbox/View.php on line 63
+[26-Dec-2013 17:14:46 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Inbox/View.php on line 63
+[26-Dec-2013 17:14:46 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/loriasne/public_html/Inbox/View.php on line 63
+[26-Dec-2013 17:14:46 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/loriasne/public_html/Inbox/View.php on line 63
+[28-Dec-2013 17:57:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/Inbox/index.php on line 38
+[28-Dec-2013 17:57:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/Inbox/index.php on line 38
+[28-Dec-2013 17:57:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/loriasne/public_html/Inbox/index.php on line 23
+[28-Dec-2013 18:02:09 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 26
+[28-Dec-2013 18:02:14 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 26
+[28-Dec-2013 18:03:48 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 22
+[28-Dec-2013 18:05:26 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 22
+[28-Dec-2013 18:05:54 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 22
+[28-Dec-2013 18:15:55 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 25
+[29-Dec-2013 18:35:04 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/loriasne/public_html/Inbox/index.php on line 21
+[29-Dec-2013 18:35:05 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/loriasne/public_html/Inbox/index.php on line 21
+[29-Dec-2013 18:35:17 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 22
+[29-Dec-2013 18:35:18 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/loriasne/public_html/Inbox/index.php on line 22
+[29-Dec-2013 18:46:13 UTC] PHP Parse error:  syntax error, unexpected '$senderRAW' (T_VARIABLE) in /home/loriasne/public_html/Inbox/index.php on line 23
+[29-Dec-2013 18:46:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Inbox/index.php on line 49
+[29-Dec-2013 18:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Inbox/index.php on line 49
+[29-Dec-2013 18:47:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasne/public_html/Inbox/index.php on line 45
+[29-Dec-2013 18:48:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Inbox/index.php on line 51
+[29-Dec-2013 18:48:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasne/public_html/Inbox/index.php on line 45
+[29-Dec-2013 18:48:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasne/public_html/Inbox/index.php on line 45
+[29-Dec-2013 18:48:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasne/public_html/Inbox/index.php on line 45
+[29-Dec-2013 18:48:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasne/public_html/Inbox/index.php on line 44
+[29-Dec-2013 18:49:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasne/public_html/Inbox/index.php on line 44
+[29-Dec-2013 18:49:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasne/public_html/Inbox/index.php on line 44
+[29-Dec-2013 18:57:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/loriasne/public_html/Inbox/index.php on line 33
+[29-Dec-2013 18:57:55 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/loriasne/public_html/Inbox/index.php on line 34

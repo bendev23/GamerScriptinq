@@ -1,0 +1,83 @@
+[22-Dec-2013 18:00:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/loriasx2/public_html/Settings/index.php on line 9
+[22-Dec-2013 18:10:30 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 5
+[22-Dec-2013 18:11:57 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 5
+[22-Dec-2013 18:12:45 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 5
+[22-Dec-2013 18:13:35 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '$' in /home/loriasx2/public_html/Settings/index.php on line 6
+[22-Dec-2013 18:13:49 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/Settings/index.php on line 32
+[23-Dec-2013 19:07:16 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/Settings/index.php on line 3
+[23-Dec-2013 19:07:16 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/loriasx2/public_html/Settings/index.php on line 3
+[23-Dec-2013 19:07:37 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/Settings/index.php on line 3
+[23-Dec-2013 19:07:37 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/loriasx2/public_html/Settings/index.php on line 3
+[23-Dec-2013 19:07:51 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/loriasx2/public_html/Settings/index.php on line 5
+[23-Dec-2013 19:11:50 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 24
+[23-Dec-2013 19:12:31 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 24
+[23-Dec-2013 19:34:50 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 34
+[23-Dec-2013 19:35:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$description' (T_VARIABLE) in /home/loriasx2/public_html/Settings/index.php on line 5
+[23-Dec-2013 19:35:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$description' (T_VARIABLE) in /home/loriasx2/public_html/Settings/index.php on line 5
+[23-Dec-2013 19:39:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$description' (T_VARIABLE) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:40:08 America/Chicago] PHP Parse error:  syntax error, unexpected ''$usr['' (T_CONSTANT_ENCAPSED_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:40:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''$usr['' (T_CONSTANT_ENCAPSED_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:40:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/loriasx2/public_html/Settings/index.php on line 6
+[23-Dec-2013 19:40:59 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/Settings/index.php on line 2
+[23-Dec-2013 19:40:59 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/loriasx2/public_html/Settings/index.php on line 2
+[23-Dec-2013 19:41:19 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/loriasx2/public_html/Settings/index.php on line 2
+[23-Dec-2013 19:45:33 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:45:57 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:46:14 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:46:18 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:47:06 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:47:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$description' (T_VARIABLE) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:47:48 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:47:48 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:48:12 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:48:25 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:48:43 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:49:00 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:49:18 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:49:39 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:49:41 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:49:42 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:49:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:50:41 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:51:23 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:51:47 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 19:51:50 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 5
+[23-Dec-2013 19:51:54 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 5
+[23-Dec-2013 20:21:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/loriasx2/public_html/Settings/index.php on line 9
+[23-Dec-2013 20:22:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/loriasx2/public_html/Settings/index.php on line 9
+[23-Dec-2013 20:22:23 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/loriasx2/public_html/Settings/index.php on line 8
+[23-Dec-2013 20:22:39 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/loriasx2/public_html/Settings/index.php on line 8
+[23-Dec-2013 20:32:49 America/Chicago] PHP Fatal error:  Call to a member function real_escape_strings() on a non-object in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 20:33:29 America/Chicago] PHP Fatal error:  Call to undefined method mysqli::real_escape_strings() in /home/loriasx2/public_html/Settings/index.php on line 4
+[23-Dec-2013 21:11:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$' in /home/loriasx2/public_html/Settings/index.php on line 14
+[23-Dec-2013 21:12:45 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 17
+[24-Dec-2013 03:54:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/Settings/index.php on line 104
+[24-Dec-2013 04:02:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasx2/public_html/Settings/index.php on line 43
+[24-Dec-2013 04:02:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/loriasx2/public_html/Settings/index.php on line 43
+[24-Dec-2013 08:42:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/loriasx2/public_html/Settings/index.php on line 30
+[24-Dec-2013 08:46:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/loriasx2/public_html/Settings/index.php on line 30
+[24-Dec-2013 08:46:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$nbirthd' (T_VARIABLE) in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:47:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:47:38 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 35
+[24-Dec-2013 08:47:49 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 35
+[24-Dec-2013 08:47:52 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 35
+[24-Dec-2013 08:48:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 35
+[24-Dec-2013 08:48:30 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:48:43 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:49:16 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:49:40 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:49:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/loriasx2/public_html/Settings/index.php on line 36
+[24-Dec-2013 08:58:26 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:58:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:58:26 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:58:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 09:22:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/loriasx2/public_html/Settings/index.php on line 37
+[24-Dec-2013 09:22:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/loriasx2/public_html/Settings/index.php on line 37
+[24-Dec-2013 09:23:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/loriasx2/public_html/Settings/index.php on line 37
+[24-Dec-2013 09:23:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/loriasx2/public_html/Settings/index.php on line 37
+[24-Dec-2013 09:23:43 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 38
+[24-Dec-2013 09:24:16 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/loriasx2/public_html/Settings/index.php on line 38
+[24-Dec-2013 09:24:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$uID' (T_VARIABLE) in /home/loriasx2/public_html/Settings/index.php on line 39
+[24-Dec-2013 09:24:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'lander' (T_STRING) in /home/loriasx2/public_html/Settings/index.php on line 44
+[29-Dec-2013 20:42:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/Settings/index.php on line 129

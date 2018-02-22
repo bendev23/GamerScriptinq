@@ -1,0 +1,124 @@
+[19-Dec-2013 13:33:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''not allowed. see checklist (a' (T_CONSTANT_ENCAPSED_STRING) in /home/loriasx2/public_html/global.php on line 7
+[19-Dec-2013 13:33:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/global.php on line 25
+[20-Dec-2013 12:59:09 America/Chicago] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/loriasx2/public_html/global.php on line 24
+[20-Dec-2013 13:01:17 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasx2_user'@'localhost' to database 'loriasx2_db' in /home/loriasx2/public_html/global.php on line 3
+[20-Dec-2013 13:19:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/global.php on line 29
+[20-Dec-2013 13:20:33 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasx2/public_html/global.php on line 28
+[22-Dec-2013 12:00:48 America/Chicago] PHP Parse error:  syntax error, unexpected 're' (T_STRING) in /home/loriasx2/public_html/global.php on line 18
+[22-Dec-2013 12:00:59 America/Chicago] PHP Parse error:  syntax error, unexpected 're' (T_STRING) in /home/loriasx2/public_html/global.php on line 18
+[22-Dec-2013 12:05:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$usr' (T_VARIABLE) in /home/loriasx2/public_html/global.php on line 24
+[22-Dec-2013 12:50:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 75
+[22-Dec-2013 16:40:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/global.php on line 41
+[22-Dec-2013 16:41:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 76
+[22-Dec-2013 16:41:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 76
+[22-Dec-2013 16:42:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/loriasx2/public_html/index.php on line 35
+[22-Dec-2013 16:42:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 77
+[22-Dec-2013 16:42:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/loriasx2/public_html/index.php on line 34
+[22-Dec-2013 16:43:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 77
+[22-Dec-2013 16:43:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 78
+[22-Dec-2013 16:43:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 78
+[22-Dec-2013 16:45:10 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/loriasx2/public_html/index.php on line 35
+[22-Dec-2013 16:45:34 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/loriasx2/public_html/index.php on line 38
+[22-Dec-2013 16:46:28 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/loriasx2/public_html/index.php on line 37
+[22-Dec-2013 16:46:37 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/loriasx2/public_html/index.php on line 37
+[23-Dec-2013 20:06:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'lander' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 39
+[23-Dec-2013 20:07:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'lander' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 38
+[23-Dec-2013 20:08:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:08:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 70
+[23-Dec-2013 20:09:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 70
+[23-Dec-2013 20:10:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:10:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:10:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:10:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:10:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:10:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:10:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:11:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:11:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 71
+[23-Dec-2013 20:11:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 82
+[23-Dec-2013 20:11:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 82
+[23-Dec-2013 20:11:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 84
+[23-Dec-2013 20:12:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 74
+[23-Dec-2013 20:12:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/loriasx2/public_html/index.php on line 74
+[23-Dec-2013 20:12:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/index.php on line 84
+[24-Dec-2013 08:55:42 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:55:42 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:55:42 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:55:42 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:56:09 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:56:09 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:56:09 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:56:09 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:56:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:56:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:56:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:56:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:56:41 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:56:41 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 36
+[24-Dec-2013 08:56:41 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'loriasx2'@'localhost' (using password: NO) in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 08:56:41 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/loriasx2/public_html/global.php on line 37
+[24-Dec-2013 17:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/loriasx2/public_html/global.php on line 40
+[24-Dec-2013 17:37:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE), expecting ')' in /home/loriasx2/public_html/global.php on line 44
+[24-Dec-2013 17:38:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE), expecting ')' in /home/loriasx2/public_html/global.php on line 44
+[24-Dec-2013 17:38:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/loriasx2/public_html/global.php on line 43
+[24-Dec-2013 17:38:57 America/Chicago] PHP Parse error:  syntax error, unexpected ''@\[(?i)b\](.*?)\[/(?i)b\]@si'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/loriasx2/public_html/global.php on line 45
+[24-Dec-2013 17:39:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/loriasx2/public_html/global.php on line 94
+[24-Dec-2013 17:40:05 America/Chicago] PHP Parse error:  syntax error, unexpected '$replace' (T_VARIABLE) in /home/loriasx2/public_html/global.php on line 49
+[25-Dec-2013 19:01:23 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 19:01:25 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 19:01:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/loriasne/public_html/global.php on line 8
+[25-Dec-2013 23:07:03 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/loriasne/public_html/signin.php on line 7
+[25-Dec-2013 23:20:50 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/loriasne/public_html/signin.php on line 7
+[25-Dec-2013 23:23:53 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:24:34 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:24:51 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:26:07 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:26:09 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:26:20 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:26:21 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:26:24 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:26:24 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:27:42 UTC] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE), expecting identifier (T_STRING) in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:27:53 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:28:14 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 4
+[25-Dec-2013 23:28:28 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:28:51 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:29:19 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:29:21 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:30:45 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:32:03 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:34:52 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:35:42 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:37:45 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasne_user'@'localhost' to database 'loriasne_main' in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:37:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/loriasne/public_html/global.php on line 6
+[25-Dec-2013 23:37:45 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasne/public_html/global.php on line 7
+[25-Dec-2013 23:39:40 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasne_user'@'localhost' to database 'loriasne_main' in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:39:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/loriasne/public_html/global.php on line 6
+[25-Dec-2013 23:39:40 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasne/public_html/global.php on line 7
+[25-Dec-2013 23:42:28 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasne_user'@'localhost' to database 'loriasne_main' in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:42:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/loriasne/public_html/global.php on line 6
+[25-Dec-2013 23:42:28 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasne/public_html/global.php on line 7
+[25-Dec-2013 23:43:45 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasne_user'@'localhost' to database 'loriasne_main' in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:43:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/loriasne/public_html/global.php on line 6
+[25-Dec-2013 23:43:45 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasne/public_html/global.php on line 7
+[25-Dec-2013 23:43:47 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasne_user'@'localhost' to database 'loriasne_main' in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:43:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/loriasne/public_html/global.php on line 6
+[25-Dec-2013 23:43:47 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasne/public_html/global.php on line 7
+[25-Dec-2013 23:44:01 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasne_user'@'localhost' to database 'loriasne_main' in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:44:01 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/loriasne/public_html/global.php on line 6
+[25-Dec-2013 23:44:01 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasne/public_html/global.php on line 7
+[25-Dec-2013 23:44:39 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'loriasne_user'@'localhost' to database 'loriasne_main' in /home/loriasne/public_html/global.php on line 3
+[25-Dec-2013 23:44:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/loriasne/public_html/global.php on line 6
+[25-Dec-2013 23:44:39 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/loriasne/public_html/global.php on line 7
+[26-Dec-2013 00:39:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/loriasne/public_html/mail.php on line 2
+[26-Dec-2013 00:40:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/loriasne/public_html/mail.php on line 2
+[26-Dec-2013 03:23:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/index.php on line 83
+[26-Dec-2013 03:23:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/index.php on line 83
+[26-Dec-2013 03:24:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/index.php on line 83
+[26-Dec-2013 03:24:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/index.php on line 83
+[26-Dec-2013 03:24:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/index.php on line 83
+[26-Dec-2013 03:47:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/loriasne/public_html/donate.php on line 53
+[26-Dec-2013 17:53:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loriasne/public_html/footer.php on line 6
+[26-Dec-2013 18:01:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/loriasne/public_html/banned.php on line 61
+[27-Dec-2013 01:56:21 UTC] PHP Warning:  Division by zero in /home/loriasne/public_html/global.php on line 33
+[27-Dec-2013 03:02:12 UTC] PHP Warning:  Division by zero in /home/loriasne/public_html/global.php on line 33
