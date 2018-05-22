@@ -80,7 +80,6 @@ ob_start();
 				<a href="/User/">My Profile</a>
 				<a href="/Account/FR/">Friend Requests</a>
 				<a href="/Inbox/">Inbox (<?php echo $numpm; ?>)</a>
-				<a href="http://www.anneximages.x10.mx/">Paste Bin</a>
 				<b>Lors:</b> <font color="green"><?php echo $usr['Lors']; ?></font>
 				<a href="/logout.php">Logout</a>
 			</span>
@@ -90,11 +89,10 @@ ob_start();
 				<span style="position:absolute;left:7%;font-size:30px;">Lorias</span>
 					<?php if($logged) { ?>
 					<span style="margin-left:300px;">
-						<a href="http://www.lorias.tk">Home</a>
+						<a href="https://yoursite.com">Home</a>
 						<a href="/Forum/">Forum</a>
 						<a href="/Browse/">Browse</a>
 						<a href="/Catalog/">Catalog</a>
-						<a href="/donate.php">Donate</a>
 						<a href="/Blog/">Blog</a>
 						
 							<?php if($usr['Admin'] == "true" || $usr['forumMod'] == "1" || $usr['imageMod'] == "1" || $usr['globalMod'] == "1" ) { ?>
